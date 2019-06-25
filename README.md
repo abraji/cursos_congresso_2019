@@ -11,5 +11,5 @@ Usado Python 3 e as bibliotecas: pandas, unidecode, requests, openpyxl, xlrd e j
 
 ### - Jornalismo de Dados com ferramentas Abraji (30 de junho de 2019) 
 Jornalismo de Dados com ferramentas Abraji:<br>
-[Clique](https://github.com/abraji/ctrl_x) e veja programas para o Ctrl+X em Python e R
+[Clique](https://github.com/abraji/ctrl_x) e veja programas para o Ctrl+X em Python e R<br>
 Publique-se (ainda serão disponibilizados)
