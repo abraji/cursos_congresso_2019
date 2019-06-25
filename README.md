@@ -1,7 +1,7 @@
 # cursos_congresso_2019
 Repositório de scripts de cursos da Abraji no 14º Congresso da Abraji 
 
-### - Técnicas de raspagem de dados e acesso a APIs (27 de junho de 2019)
+### - Técnicas de raspagem de dados e acesso a APIs (27 de junho de 2019) - pasta "raspagem_apis"
 Diversos sites de transparência pública oferecem atualmente a possibilidade de uso de seus dados por meio de APIs. A oficina mostrará formas de usar esses recursos e aproveitar os dados em apurações jornalísticas<br>
 Usado Python 3 e as bibliotecas: pandas, unidecode, requests, beautifulsoup4, lxml, seaborn, matplotlib, tweepy, pdfminer, chardet, openpyxl, xlrd e jupyterlab<br>
 Veja a apresentação
