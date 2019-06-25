@@ -6,3 +6,4 @@ Diversos sites de transparência pública oferecem atualmente a possibilidade de
 
 ### - Como usar Python para descobrir uma rede de interesses (28 de junho de 2019) - pasta "interesses"
 Como usar ferramentas digitais de automatização para cruzar informações de CPF e CNPJ com dados de doadores de campanha e informações de proposições legislativas no Congresso Nacional, para identificar se políticos autores de leis foram financiados por pessoas/empresas com interesse na área à qual o projeto de lei se refere
+Usado Python 3 e as bibliotecas: pandas, unidecode, requests, openpyxl, xlrd e jupyterlab
