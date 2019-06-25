@@ -1,5 +1,5 @@
 # cursos_congresso_2019
-Repositório de scripts de dois cursos da Abraji no 14º Congresso da Abraji 
+Repositório de scripts de cursos da Abraji no 14º Congresso da Abraji 
 
 ### - Técnicas de raspagem de dados e acesso a APIs (27 de junho de 2019)
 Diversos sites de transparência pública oferecem atualmente a possibilidade de uso de seus dados por meio de APIs. A oficina mostrará formas de usar esses recursos e aproveitar os dados em apurações jornalísticas<br>
