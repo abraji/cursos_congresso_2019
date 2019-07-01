@@ -15,5 +15,5 @@ Veja a [apresentação](https://docs.google.com/presentation/d/1jlxhun3ZZQVLG17e
 <br>
 ### - Jornalismo de Dados com ferramentas Abraji (30 de junho de 2019) 
 Jornalismo de Dados com ferramentas Abraji:<br>
-[Clique](https://github.com/abraji/ctrl_x) e veja programas para o Ctrl+X e Publique-se em Python e R<br>
-Veja a apresentação
+[Clique](https://github.com/abraji/ctrl_x) e veja programas para o Ctrl+X. [Clique](https://github.com/abraji/publique_se) e veja programas para o Publique-se. Em Python e R<br>
+Veja a [apresentação](https://docs.google.com/presentation/d/1312eknI2J3L1A8Si9_X_EQG2vChWZbZj0pkujjiLnZ4/edit?usp=sharing)
