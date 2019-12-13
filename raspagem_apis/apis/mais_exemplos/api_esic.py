@@ -15,8 +15,9 @@ headers  = {'Authorization': 'Bearer ' + key}
 # Escolha o ano
 ano = '2019'
 
-# O limite máximo de resultados que consegui foram 30.000
+# O limite máximo de resultados que consegui foram 30.000 para o ano de 2019
 # A paginação offset ainda não funcionou
+# Para outros anos tem que testar o limite - 2018 por exemplo funcionou 40000
 limite = '?limite=30000'
 
 # Faz a requisição
