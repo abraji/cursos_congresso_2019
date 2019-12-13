@@ -15,9 +15,9 @@ headers  = {'Authorization': 'Bearer ' + key}
 # Escolha o ano
 ano = '2019'
 
-# O limite máximo de resultados que consegui foram 10.000
+# O limite máximo de resultados que consegui foram 30.000
 # A paginação offset ainda não funcionou
-limite = '?limite=10000'
+limite = '?limite=30000'
 
 # Faz a requisição
 r = requests.get(endpoint + ano + limite, headers = headers)
