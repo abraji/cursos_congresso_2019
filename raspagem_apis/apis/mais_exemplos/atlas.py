@@ -52,7 +52,7 @@ url="https://api.atlas.jor.br/api/v1/data/analytic?estado=SP"
 
 # Faz a requisição, já informando a senha
 try:
-	r = requests.get(url, headers = {"Authorization":"Bearer " + token})
+    r = requests.get(url, headers = {"Authorization":"Bearer " + token})
 except requests.exceptions.HTTPError as errh:
     print ("Http Error:",errh)
 except requests.exceptions.ConnectionError as errc:
