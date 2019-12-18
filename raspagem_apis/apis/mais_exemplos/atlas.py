@@ -25,7 +25,7 @@ headers = {
     'cache-control': "no-cache"
     }
 
-# Faz a requisição para obter a senha
+# Faz a requisição para obter a senha Bearer 
 try:
     response = requests.request("POST", url, data=payload, headers=headers)
 except requests.exceptions.HTTPError as errh:
@@ -50,7 +50,7 @@ expiresIn = body["expires_in"]
 # Outros tipos de buscas aqui: https://api.atlas.jor.br/docs
 url= "https://api.atlas.jor.br/api/v1/data/analytic?estado=SP"
 
-# Faz a requisição, já informando a senha
+# Faz a requisição, já informando a senha Bearer
 try:
     r = requests.get(url, headers = {"Authorization":"Bearer " + token})
 except requests.exceptions.HTTPError as errh:
