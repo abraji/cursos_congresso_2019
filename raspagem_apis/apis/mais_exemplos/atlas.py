@@ -35,7 +35,7 @@ except requests.exceptions.ConnectionError as errc:
 except requests.exceptions.Timeout as errt:
     print ("Timeout Error:",errt)
 except requests.exceptions.RequestException as err:
-	print ("OOps: Something Else",err)
+    print ("OOps: Something Else",err)
 
 
 # Captura a informação exata
@@ -48,7 +48,7 @@ expiresIn = body["expires_in"]
 # Agora com a senha é possível fazer diversas requisições
 # Exemplo veículos do Estado de SP
 # Outros tipos de buscas aqui: https://api.atlas.jor.br/docs
-url="https://api.atlas.jor.br/api/v1/data/analytic?estado=SP"
+url= "https://api.atlas.jor.br/api/v1/data/analytic?estado=SP"
 
 # Faz a requisição, já informando a senha
 try:
@@ -60,7 +60,7 @@ except requests.exceptions.ConnectionError as errc:
 except requests.exceptions.Timeout as errt:
     print ("Timeout Error:",errt)
 except requests.exceptions.RequestException as err:
-	print ("OOps: Something Else",err)
+    print ("OOps: Something Else",err)
 
 # Lê a resposta em JSON
 dados = r.json()
